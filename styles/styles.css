@@ -3,9 +3,9 @@
         display: flex;
         justify-content: space-around;
         background: #FFF;
-    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
-    align-items: center;
-    
+        box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
+        align-items: center;
+        
     }
     .pink{
         color: #FF42A5;
@@ -23,10 +23,10 @@
     }
     .f_btn{
         border-radius: 8px;
-    background: rgba(11, 2, 35, 0.10);
-    border: none;
-    width: 262px;
-    height: 56px;
+        background: rgba(11, 2, 35, 0.10);
+        border: none;
+        width: 262px;
+        height: 56px;
     
     }
     .nav1{
@@ -57,18 +57,17 @@
         
     }
     .section2{
-      height: 37.5rem;
-    
+    height: 37.5rem; 
     display: flex;
     align-items: center;
     justify-content: center;
     }
     .top-right{
-        padding: 20px;
+    padding: 20px;
     }
     
     .top-left{
-        text-align: right;
+    text-align: right;
     font-family: Work Sans;
     font-size: 1.2rem;  
     font-style: normal;
@@ -78,8 +77,8 @@
     
     }
     .top-mid-div{
-        text-align: center;
-        padding: 15px;
+    text-align: center;
+    padding: 15px;
         
        
     }
@@ -101,8 +100,7 @@
        background-image:cross-fade();
         background-color: black;
         opacity: 100%;
-        cursor: pointer;
-     
+        cursor: pointer;     
         content: url('/images/play-button-1.svg');
         
         
@@ -122,7 +120,7 @@
     height: 30.5625rem;
     width: 40rem;
     
-    /* padding-right: -2?0px; */
+
     }
     .top-mid-div-grid{
      height: 25rem;
@@ -136,7 +134,7 @@
         font-weight: 500;
         line-height: normal;
         align-items: end;
-        /* text-align: end; */
+    
     
     }
     
@@ -163,9 +161,7 @@
         height: 500px;
         background-size:contain;
         background-position: 99%;
-        /* background:no-repeat; */
-        /* background-position-x: 80%; */
-        
+     
         
        
     }
@@ -177,13 +173,12 @@
     
     .icons-div{
         margin-top:  200px;
-        /* display: grid;
-        grid-template-columns: repeat(5, 1fr); */
+        
         align-items: center;
         justify-content: space-between;
     
         text-align: center;
-       /* height: 15rem; */
+       
     }
     .bottom-mid-div-txt{
         text-align: center;
@@ -215,9 +210,7 @@
         
         color: #0B0223;
         font-family: Work Sans;
-        /* font-size: 1.25rem;
-        font-style: normal;
-        font-weight: 600; */
+       
         line-height: normal;
         border-radius: 50px;
          background: #FFF;    
@@ -396,7 +389,7 @@
         list-style: none;
         text-decoration: none;
         display:inline-block;
-        /* gap: 20px; */
+
         align-items: center;
     }
     .nav2 ul li {
@@ -433,7 +426,7 @@
     }
     
     .top-left{
-        /* text-align: right; */
+
     font-family: Work Sans;
     font-size: 1.2rem;  
     font-style: normal;
@@ -455,7 +448,7 @@
         gap: 2px;
         justify-content: space-between;
         
-        /* width: 21.375rem; */
+    
         
       
     
@@ -493,7 +486,7 @@
     }
     .top-mid-left img{
     
-    /* height: 30.5625rem; */
+   
     width: 22rem;
     
    
@@ -513,10 +506,7 @@
         font-family: Work Sans;
         font-style: normal;
         font-weight: 500;
-        /* line-height: normal; */
-        /* align-items: end; */
-        /* text-align: end; */
-    
+      
     }
     
     
@@ -525,7 +515,7 @@
        width: 9rem;
        text-align: center;
        padding: 0px 20px;
-    /* padding-left: 200px; */
+    
     }
        .bottom-mid-div{
         display: block;
@@ -539,13 +529,7 @@
         background-image: url('/images/pic7.png');
         background-repeat: no-repeat;
         height: 500px;
-        background-size:contain;
-        /* background-position: 99%; */
-        /* background:no-repeat; */
-        /* background-position-x: 80%; */
-/*         
-        border: #FF42A5 1px solid; */
-       
+        background-size:contain;       
     }
     .overley{
         position:static;
@@ -554,12 +538,12 @@
     }
     
     .icons-div{
-        /* margin-top:  200px; */
+       
         align-items: center;
        
         text-align: center;
        display: block;
-       /* height: 15rem; */
+      
        margin-bottom: 100px;
     }
     .bottom-mid-div-txt{
@@ -602,7 +586,7 @@
         font-weight: 600;
         line-height: normal;
         border-radius: 50px;
-        /* background: #FFF;    */
+       
         border: 2px palevioletred solid;
         
        
@@ -611,7 +595,7 @@
     
     footer{
          margin-top: 100px;
-        /* height: 30em; */
+        
         background-color: #0B0223;;
         text-align: center;
         color: white;
