@@ -1,3 +1,13 @@
+.pink{
+        color: #FF42A5;
+        
+    }
+    .purple{
+        background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
 @media only screen and (min-width: 992px) {
     header nav{
         display: flex;
