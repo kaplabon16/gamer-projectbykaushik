@@ -97,7 +97,7 @@
     }
     .top-mid-div-grid img:hover {
         
-       background-image:cross-fade();
+       
         background-color: black;
         opacity: 100%;
         cursor: pointer;     
@@ -329,6 +329,7 @@
     
     }
 }
+
 /* MEDIA */
 
 /* MEDIA */
